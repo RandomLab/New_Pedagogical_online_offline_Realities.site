@@ -1,0 +1,50 @@
+<div class="sidebar">
+    {% set navPages = collections.all | eleventyNavigation %}
+    {% macro renderNavListItem(entry) -%}
+    <li {% if entry.url == page.url %} class="is-active"{% endif %}>
+    <a  href="{{ entry.url }}">{{ entry.title }}</a>
+    {%- if entry.children.length -%}
+    <ul class="dropdown-container">
+        {%- for child in entry.children %}{{ renderNavListItem(child) }}{% endfor -%}
+    </ul>
+    {%- endif -%}
+    </li>
+    {%- endmacro %}
+
+    <ul class="main-menu">
+    {%- for entry in navPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
+    </ul>
+</div>
+
+<div class="sidebar-mobile" id="parent-menu">
+    <div id="title" class="title">
+        <p id="btn-menu">New Pedagogical online offline Relalities<p>
+    </div>
+    <div id="cross" class="icon-cross">
+        <svg xmlns="http://www.w3.org/2000/svg"
+            width="50"
+            height="50"
+            viewBox="0 0 50 50"
+            stroke="black"
+            stroke-width="2"
+        >
+            <line x1="50" y1="50" x2="0" y2="0"/>
+            <line x1="0" y1="50" x2="50" y2="0"/>
+        </svg>
+    </div>
+    {% set navPages = collections.all | eleventyNavigation %}
+    {% macro renderNavListItem(entry) -%}
+    <li {% if entry.url == page.url %} class="is-active"{% endif %}>
+    <a  href="{{ entry.url }}">{{ entry.title }}</a>
+    {%- if entry.children.length -%}
+    <ul class="dropdown-container">
+        {%- for child in entry.children %}{{ renderNavListItem(child) }}{% endfor -%}
+    </ul>
+    {%- endif -%}
+    </li>
+    {%- endmacro %}
+
+    <ul class="main-menu" id="main-menu">
+    {%- for entry in navPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
+    </ul>
+</div>

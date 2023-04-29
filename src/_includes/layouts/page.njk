@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="{{ metadata.language }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ title or metadata.title }}</title>
+    <link rel="stylesheet" href="{{'/assets/style.css' | url }}" />
+    <script src="{{ '/assets/js/main.js' | url }}"></script>
+  </head>
+
+  <body>
+
+      {% include "../components/logo.njk" %}
+
+          
+      {% include "../components/navigation.njk" %}
+
+      <main class="container">
+
+        {{ content | safe }}
+      
+      </main>
+    
+    </div>
+  </body>
+</html>
