@@ -3,6 +3,8 @@ https://github.com/Mangamaui/eleventy-not-so-minimal-blog-starter/tree/main/src/
 
 https://z-bau.com/
 
+https://publicartagencysweden.com/
+
 
 {% image "IMG_5091.JPG", "photo of my tabby cat", "(min-width: 30em) 50vw, 100vw" %}
 <figcaption>Tallinn, november 2021</figcaption>
