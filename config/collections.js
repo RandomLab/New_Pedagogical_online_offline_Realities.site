@@ -2,21 +2,35 @@ const slugify = require('slugify')
 
 const getAllArticles = (collectionApi) => {
 
-    const articles = collectionApi.getFilteredByGlob('./src/introduction/*.md')
+    // const articles = collectionApi.getFilteredByGlob('./src/introduction/*.md')
+    const articles = collectionApi.getFilteredByTag("article")
+
     // console.log(articles[0].page)
-
-    const pages = []
-
-    articles.map((item) => {
-        console.log(item)
-        pages.push({
-            'key': 'test',
-            'name': 'test'
-        })
-    })
-
-
-    return pages
+    
+    // const pages = []
+    
+    // articles.map((item) => {
+    //     // console.log(item)
+    //     pages.push({
+        //         'key': 'test',
+    //         'name': 'test'
+    //     })
+    // })
+    
+    // console.log(pages)
+    
+    // return pages
+    
+    for (let i = 0; i < articles.length; i++) {
+        const prevPost = articles[i - 1]
+        const nextPost = articles[i + 1]
+        articles[i].data['prevPost'] = prevPost
+        articles[i].data['nextPost'] = nextPost
+    }
+    
+    console.log(articles[0].data)
+    
+    return articles
 
 }
 

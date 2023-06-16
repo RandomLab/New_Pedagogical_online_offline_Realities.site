@@ -79,6 +79,12 @@ module.exports = function (eleventyConfig) {
     // eleventyConfig.addCollection('categoryList', getCategoryList)
     // eleventyConfig.addCollection('categorisedPosts', getCategorisedPosts)
     
+    // eleventyConfig.addCollection('posts', function (collection) {
+    //     const coll = collection.getFilteredByTag("post")
+    //     console.log(coll)
+    // })
+
+
     /*****************/
     /* watch         */
     /*****************/

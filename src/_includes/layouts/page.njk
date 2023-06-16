@@ -10,18 +10,26 @@
 
   <body>
 
-      {% include "../components/logo.njk" %}
+        <a href="/">{% include "../components/logo.njk" %}</a>
 
           
-      {% include "../components/navigation.njk" %}
+        {% include "../components/navigation.njk" %}
 
+        
 
+        <main class="container">
 
-      <main class="container">
+            {% if nextPost.url %}
+                <p><a href="{{nextPost.url }}">previous</a>
+            {% endif %}
 
-        {{ content | safe }}
+            {% if prevPost.url %}
+                <p><a href="{{prevPost.url }}">next</a>
+            {% endif %}
+
+            {{ content | safe }}
       
-      </main>
+        </main>
     
     </div>
   </body>
