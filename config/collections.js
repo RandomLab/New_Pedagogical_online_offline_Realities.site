@@ -5,6 +5,8 @@ const getAllArticles = (collectionApi) => {
     // const articles = collectionApi.getFilteredByGlob('./src/introduction/*.md')
     const articles = collectionApi.getFilteredByTag("article")
 
+    console.log(articles)
+
     // console.log(articles[0].page)
     
     // const pages = []

@@ -1,0 +1,9 @@
+<div class="internal-navigation">
+    {% if prevPost.url %}
+    <a href="{{prevPost.url }}">Previous</a>
+    {% endif %}
+
+    {% if nextPost.url %}
+    <a href="{{nextPost.url }}">Next</a>
+    {% endif %}
+</div>

@@ -1,8 +1,10 @@
 ---
 layout: page
+tags: article
+
 eleventyNavigation:
   key: Conclusion
-  order: 7
+  order: 28
 ---
 
 ## Conclusion

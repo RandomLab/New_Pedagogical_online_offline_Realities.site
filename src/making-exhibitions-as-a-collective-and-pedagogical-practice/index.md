@@ -1,8 +1,10 @@
 ---
 layout: page
+tags: article
+
 eleventyNavigation:
   key: Making exhibitions
-  order: 6
+  order: 24
 ---
 
 # Making exhibitions as a collective and pedagogical practice

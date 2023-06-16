@@ -26,7 +26,7 @@
 .sidebar {
     padding-top: 10px;
     font-size: 0.8rem;
-    width: 200px;
+    width: 250px;
     position: fixed;
     height: 100%;
     background-color: #f0f0f0;
@@ -68,9 +68,22 @@
     }
 }
 
+.internal-navigation {
+    display: flex;
+    position: fixed;
+    right: 0;
+    justify-content: space-between;
+    width: 250px;
+    padding: 20px;
+
+    a {
+        color: black;
+    }
+}
+
 .container {
 
-    margin-left: 230px;
+    margin-left: 300px;
 
     h1, h2, h3, h4 {
         font-size: 1.3rem;

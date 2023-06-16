@@ -1,8 +1,10 @@
 ---
 layout: page
+tags: article
+
 eleventyNavigation:
   key: About
-  order: 8
+  order: 29
 ---
 
 # About this website

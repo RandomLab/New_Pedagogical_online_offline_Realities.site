@@ -15,19 +15,10 @@
           
         {% include "../components/navigation.njk" %}
 
-        
+        {% include "../components/internalNav.njk" %}
 
         <main class="container">
 
-            {% if prevPost.url %}
-                <p><a href="{{prevPost.url }}">Previous</a>
-            {% endif %}
-
-            {% if nextPost.url %}
-                <p><a href="{{nextPost.url }}">Next</a>
-            {% endif %}
-
-           
 
             {{ content | safe }}
       

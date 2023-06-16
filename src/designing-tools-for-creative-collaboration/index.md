@@ -1,8 +1,10 @@
 ---
 layout: page
+tags: article
+
 eleventyNavigation:
   key: Designing tools
-  order: 5
+  order: 18
 ---
 
 # Designing tools for creative collaboration
