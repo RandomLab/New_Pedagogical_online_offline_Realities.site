@@ -1,8 +1,8 @@
 ---
 layout: page
 eleventyNavigation:
-  key: Methodologies and tools for collaboration
-  order: 3
+  key: Methodologies and tools
+  order: 2
 ---
 
 # Methodologies and tools for collaboration

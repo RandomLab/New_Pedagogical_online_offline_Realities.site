@@ -7,6 +7,9 @@ eleventyNavigation:
 
 # Digital Tools for Collective Creative Practices: A Pedagogical Approach to Art and Design Collaboration
 
+{% image "20220307_102053.jpg", "Build something together", "(min-width: 30em) 50vw, 100vw" %}
+<figcaption>Scaffolding at Austerlitz Station as a metaphor for collaborative creation</figcaption>
+
 At a time when Europe is ending lockdowns, when the vaccination campaign makes us feel optimistic about the future of our lives and professional activity, the Esadse, together with the Estonian Academy of Art, EKA, and the Hochschule für Gestaltung Schwäbisch-Gmünd, its international partners, analyzes the experience of the past year and a half and reflects on how to reinvent art and design education in post-covid times. In response to these questions is born the Digital Tools for Creative Collaboration project co-funded by the Erasmus Programme of the European Commission.
 
 Higher education institutions have been extremely responsive to the conditions imposed by the pandemic crisis. We have managed to organize both teaching and administrative procedures at a distance.  At Esadse, the courses, the reports, the competition have migrated to the digital space. The 2019–2020 activity report stated that “the commitment has been exemplary”. Thus, we have succeeded in continuing, in remaining “open”, but... at what price?  The transition was done in a flash, in the urgency of the situation we used the available digital tools, training ourselves as we went along, often outside of working hours, without carrying out an in-depth reflection on the origin of these softwares, webapps, applications... 

@@ -76,7 +76,7 @@
         font-size: 1.3rem;
         margin-bottom: 10px;
         width: 50%;
-        line-height: 1.5rem;
+        line-height: 1.8rem;
     }
 
     h1, h2 {
@@ -158,6 +158,8 @@
 
         .title {
             display: flex;
+            flex-direction: row;
+            justify-content: space-between;
             font-size: 1rem;
             cursor: pointer;
             margin-bottom: 20px;
@@ -219,6 +221,10 @@
         padding-top: 15%;
         padding-left: 1rem;
         padding-right: 1rem;
+
+        h1, h2, h3, h4 {
+            width: 100%;
+        }
 
         ul {
             width: 80%;

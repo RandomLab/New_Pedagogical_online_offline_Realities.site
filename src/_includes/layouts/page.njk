@@ -19,13 +19,15 @@
 
         <main class="container">
 
-            {% if nextPost.url %}
-                <p><a href="{{nextPost.url }}">previous</a>
+            {% if prevPost.url %}
+                <p><a href="{{prevPost.url }}">Previous</a>
             {% endif %}
 
-            {% if prevPost.url %}
-                <p><a href="{{prevPost.url }}">next</a>
+            {% if nextPost.url %}
+                <p><a href="{{nextPost.url }}">Next</a>
             {% endif %}
+
+           
 
             {{ content | safe }}
       
