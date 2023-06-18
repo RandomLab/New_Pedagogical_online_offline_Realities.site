@@ -1,5 +1,6 @@
 ---
 layout: page
+tags: chapitre
 
 eleventyNavigation:
   key: Introduction

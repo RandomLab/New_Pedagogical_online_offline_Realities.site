@@ -1,11 +1,18 @@
 const slugify = require('slugify')
 
+
+const getAllChapitres = (collectionApi) => {
+    const chapitres = collectionApi.getFilteredByTag("chapitre")
+    return chapitres
+
+}
+
 const getAllArticles = (collectionApi) => {
 
     // const articles = collectionApi.getFilteredByGlob('./src/introduction/*.md')
     const articles = collectionApi.getFilteredByTag("article")
 
-    console.log(articles)
+    // console.log(articles)
 
     // console.log(articles[0].page)
     
@@ -29,8 +36,7 @@ const getAllArticles = (collectionApi) => {
         articles[i].data['prevPost'] = prevPost
         articles[i].data['nextPost'] = nextPost
     }
-    
-    console.log(articles[0].data)
+
     
     return articles
 
@@ -93,7 +99,8 @@ const getAllArticles = (collectionApi) => {
 // }
 
 module.exports = {
-    getAllArticles
+    getAllArticles,
+    getAllChapitres
 //   getAllPosts,
 //   getCategoryList,
 //   getCategorisedPosts

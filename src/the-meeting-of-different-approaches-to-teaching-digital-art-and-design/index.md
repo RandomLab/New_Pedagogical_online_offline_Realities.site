@@ -1,10 +1,10 @@
 ---
 layout: page
-tags: article
+tags: chapitre
 
 eleventyNavigation:
   key: The meeting of different approaches
-  order: 8
+  order: 3
 ---
 
 # The meeting of different approaches to teaching digital art and design

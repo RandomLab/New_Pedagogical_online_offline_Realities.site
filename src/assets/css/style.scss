@@ -70,20 +70,38 @@
 
 .internal-navigation {
     display: flex;
+    flex-direction: column;
     position: fixed;
     right: 0;
-    justify-content: space-between;
-    width: 250px;
-    padding: 20px;
+    width: 260px;
+    // padding: 20px;
+    margin-top: 20px;
 
     a {
         color: black;
     }
+
+    .linear {
+        display: flex;
+        margin-top: 20px;
+        justify-content: space-between;
+        margin-right: 20px;
+    }
+
+    li {
+        list-style: none;
+
+    }
+
 }
 
 .container {
 
     margin-left: 300px;
+
+    .youtube {
+        width: 20%;
+    }
 
     h1, h2, h3, h4 {
         font-size: 1.3rem;
@@ -97,28 +115,31 @@
     }
 
     h3 {
-        padding-top: 50px;
+        // padding-top: 50px;
     }
 
     h4 {
         font-size: 1rem;
-        margin-top: 60px;
+        // margin-top: 60px;
     }
 
-    ul {
+    ul,ol {
 
         width: 40%;
         padding-left: 3rem;
         margin-bottom: 30px;
-        margin-top: 30px;
+        margin-top: 10px;
         list-style: none;
 
         li {
             margin-top: 10px;
             
             &::before {
-                content: "●  ";
+                content: "● ";
                 color: red;
+                font-size: 0.8rem;
+                vertical-align: text-top;
+                padding-right: 10px;
             }
         }
     }
@@ -143,6 +164,10 @@
     
         margin-bottom: 50px;
     }
+
+    // .eleventy-plugin-youtube-embed {
+    //     width: 50%;
+    // }
 }
 
 @media screen and (max-width: 50rem) {

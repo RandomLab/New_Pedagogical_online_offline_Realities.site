@@ -1,10 +1,10 @@
 ---
 layout: page
-tags: article
+tags: chapitre
 
 eleventyNavigation:
   key: Methodologies and tools
-  order: 4
+  order: 2
 ---
 
 # Methodologies and tools for collaboration

@@ -1,10 +1,11 @@
 const eleventyNavigationPlugin = require('@11ty/eleventy-navigation')
-const embedYouTube = require("eleventy-plugin-youtube-embed")
+const embedEverything = require("eleventy-plugin-embed-everything")
 const Image = require("@11ty/eleventy-img")
 const path = require('path')
 
 const { 
-    getAllArticles
+    getAllArticles,
+    getAllChapitres
     // getAllPosts, 
     // getCategoryList,
     // getCategorisedPosts 
@@ -17,7 +18,22 @@ module.exports = function (eleventyConfig) {
     /* config plugin   */
     /******************/
     eleventyConfig.addPlugin(eleventyNavigationPlugin)
-    eleventyConfig.addPlugin(embedYouTube)
+    eleventyConfig.addPlugin(embedEverything, {
+        use: ['youtube'],
+        youtube: {
+            options: {
+                allowAttrs: 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture',
+                allowAutoplay: false,
+                allowFullscreen: false,
+                embedClass: 'youtube',
+                lazy: false,
+                lite: false,
+                modestBranding: false,
+                noCookie: true,
+                recommendSelfOnly: false,
+            }
+        }
+    })
     // eleventyConfig.addPlugin(eleventyImagePlugin, {
 	// 	// Set global default options
 	// 	formats: ["webp", "jpeg"],
@@ -76,6 +92,7 @@ module.exports = function (eleventyConfig) {
     /*   Collections   */
     /*=================*/
     eleventyConfig.addCollection('articles', getAllArticles)
+    eleventyConfig.addCollection('chapitres', getAllChapitres)
     // eleventyConfig.addCollection('categoryList', getCategoryList)
     // eleventyConfig.addCollection('categorisedPosts', getCategorisedPosts)
     

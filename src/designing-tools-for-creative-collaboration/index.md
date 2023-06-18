@@ -1,10 +1,10 @@
 ---
 layout: page
-tags: article
+tags: chapitre
 
 eleventyNavigation:
   key: Designing tools
-  order: 18
+  order: 5
 ---
 
 # Designing tools for creative collaboration

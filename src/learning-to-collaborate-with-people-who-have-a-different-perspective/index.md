@@ -1,10 +1,10 @@
 ---
 layout: page
-tags: article
+tags: chapitre
 
 eleventyNavigation:
   key: Learning to collaborate
-  order: 13
+  order: 4
 ---
 
 # Learning to collaborate with people who have a different perspective

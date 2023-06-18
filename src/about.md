@@ -1,10 +1,10 @@
 ---
 layout: page
-tags: article
+tags: chapitre
 
 eleventyNavigation:
   key: About
-  order: 29
+  order: 8
 ---
 
 # About this website

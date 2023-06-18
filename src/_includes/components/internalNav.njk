@@ -1,9 +1,17 @@
 <div class="internal-navigation">
+    
+    <div class="linear">
     {% if prevPost.url %}
-    <a href="{{prevPost.url }}">Previous</a>
+    <a href="{{prevPost.url }}">Previous article</a>
     {% endif %}
 
     {% if nextPost.url %}
-    <a href="{{nextPost.url }}">Next</a>
+    <a href="{{nextPost.url }}">Next article</a>
     {% endif %}
+    </div>
+
+    {% set navChapitres = collections.chapitres | eleventyNavigation %}
+    <ul class="sub">
+    {%- for entry in navChapitres %}<li><a href="{{entry.url}}">{{ entry.title }}</a></li>{%- endfor -%}
+    </ul>
 </div>

@@ -1,0 +1,41 @@
+<div class="internal-navigation">
+
+    {% if title %}
+        <a href="{{ url }}">{{ title }}</a>
+    {% endif %}
+
+    
+    {% if nextPost %}
+    <div class="linear">
+    {% if nextPost.url %}
+            <a href="{{nextPost.url }}">Next</a>
+    {% endif %}
+
+    {% if prevPost.url %}
+        <a href="{{prevPost.url }}">Previous</a>
+    {% endif %}
+    </div>
+    {% endif %}
+
+    {% set navPages = collections.all | eleventyNavigation %}
+
+    <ul>
+    {%- for entry in navPages %}
+    
+        {% if entry.url == page.url %}
+            
+            <ul>
+            {%- for entry in entry.children %}
+
+                <li><a href="{{ entry.url }}">{{ entry.title }}</a></li>
+
+            {%- endfor -%}
+            </ul>
+
+        {% endif %}
+
+    {%- endfor -%}
+    </ul>
+
+
+</div>
