@@ -87,6 +87,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy('./src/assets/css/')
     eleventyConfig.addPassthroughCopy('./src/assets/fonts/')
     eleventyConfig.addPassthroughCopy('./src/pdf/')
+    eleventyConfig.addPassthroughCopy({ '.src/robots.txt': '/robots.txt' })
 
     /*****************/
     /* layouts         */
