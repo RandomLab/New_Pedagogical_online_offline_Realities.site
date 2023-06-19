@@ -53,7 +53,7 @@ module.exports = function (eleventyConfig) {
         let imageSrc = `${path.dirname(this.page.inputPath)}/${src}`
 
 		let metadata = await Image(imageSrc, {
-			widths: [300, 600],
+			widths: [600, 1200],
 			formats: ["webp"],
             outputDir: path.dirname(this.page.outputPath),
             urlPath: this.page.url
@@ -82,11 +82,14 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy('./src/assets/js/')
     eleventyConfig.addPassthroughCopy('./src/assets/css/')
     eleventyConfig.addPassthroughCopy('./src/assets/fonts/')
+    eleventyConfig.addPassthroughCopy('./src/pdf/')
 
     /*****************/
     /* layouts         */
     /*****************/
     eleventyConfig.addLayoutAlias('page', 'layouts/page')
+    eleventyConfig.addLayoutAlias('video', 'layouts/video')
+
 
     /*=================*/
     /*   Collections   */
