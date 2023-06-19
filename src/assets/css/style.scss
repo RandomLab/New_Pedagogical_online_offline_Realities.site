@@ -172,6 +172,10 @@
 
 @media screen and (max-width: 50rem) {
 
+    .internal-navigation {
+        display: none;
+    }
+
     .site-logo {
         display: none;
     }
@@ -199,8 +203,14 @@
             flex-direction: row;
             justify-content: space-between;
             font-size: 1rem;
-            cursor: pointer;
             margin-bottom: 20px;
+            cursor: pointer;
+            
+            // .btn-menu {
+                // right: 0;
+                // float: right;
+                // align-items: flex-end;
+            // }
         }
         
         .icon-cross {

@@ -75,6 +75,10 @@ module.exports = function (eleventyConfig) {
         // excerpt_separator: "<!-- excerpt -->",
         // excerpt_alias: 'excerpt'
     //   })
+
+    eleventyConfig.addFilter('log', value => {
+        console.log(value)
+    })
     
     /******************/
     /* files > dist   */
