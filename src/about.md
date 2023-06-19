@@ -26,9 +26,6 @@ BEDA and the EU Commission
 
 ### [A PDF edition of this publiction is freely downloable](/pdf/dtcc.pdf)
 
-This publication was generated the 16 may 2022 from the url
-wiki.ourwriting.tools, with a custom app and the paged.js
-library. [The Sources are here](github.com/RandomLab/pub.ourwriting.tools).
 
 <div class="logos">
 {% image "logos.svg", "logos", "(min-width: 30em) 50vw, 100vw" %}
