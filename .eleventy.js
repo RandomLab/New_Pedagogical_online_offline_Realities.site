@@ -17,7 +17,7 @@ const {
 module.exports = function (eleventyConfig) {
     
     let options = {
-        html: false, // Enable HTML tags in source
+        html: true, // Enable HTML tags in source
         breaks: false,  // Convert '\n' in paragraphs into <br>
         linkify: false // Autoconvert URL-like text to links
       }
