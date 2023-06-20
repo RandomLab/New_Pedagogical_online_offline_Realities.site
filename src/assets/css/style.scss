@@ -141,7 +141,7 @@
             
             &::before {
                 content: "● ";
-                color: red;
+                color: blue;
                 font-size: 0.8rem;
                 vertical-align: text-top;
                 padding-right: 10px;
@@ -150,13 +150,13 @@
     }
 
     p {
-        width: 60%;
+        width: 70%;
         margin-bottom: 10px;
         line-height: 1.5rem;
     }
 
     img {
-        width: 50%;
+        width: 80%;
         height: 50%;
         border: 1px solid blue;
         margin-top: 10px;
@@ -165,7 +165,7 @@
     figcaption {
         font-size: 0.7rem;
         text-align: center;
-        width: 50%;
+        width: 80%;
     
         margin-bottom: 50px;
     }
@@ -176,14 +176,14 @@
 
     .footnote-ref {
         a {
-            color: black;
+            color: blue;
             text-decoration: none;
 
         }
     }
 
     .footnotes {
-        margin-top: 20px;
+        margin-top: 80px;
         padding-left: 1rem;
 
         ul, ol, li {
@@ -191,7 +191,7 @@
             margin-bottom: 0px;
             margin-top: 0px;
             list-style: decimal;
-
+            padding-left: 0rem;
             padding-right: 0px;
             margin-right: 0px;
             
@@ -336,7 +336,7 @@
         figcaption {
             font-size: 0.6rem;
             text-align: center;
-            width: 50%;
+            width: 100%;
             margin-bottom: 10px;
         }
 
