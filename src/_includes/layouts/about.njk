@@ -1,0 +1,17 @@
+{% include "../components/header.njk" %}
+
+        <a href="/">{% include "../components/logo.njk" %}</a>
+
+          
+        {% include "../components/navigation.njk" %}
+
+        {% include "../components/sideNavigation.njk" %}
+
+        <main class="container">
+
+            {{ content | safe }}
+
+            {% include "../components/logos.njk" %}
+        </main>
+    
+{% include "../components/footer.njk" %}

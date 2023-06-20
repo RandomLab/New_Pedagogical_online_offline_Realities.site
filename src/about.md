@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 tags: chapitre
 
 eleventyNavigation:
@@ -9,27 +9,23 @@ eleventyNavigation:
 
 # About this website
 
-### Editorial coordination and conception
+#### Editorial coordination and conception
 Random(lab) ESADSE: Jérémie Nuel and Cléa Di Fabio
 
-### Authors
+#### Authors
 David-Olivier Lartigaud, Cléa Di Fabio, Jérémie Nuel, Damien Baïs, Marc Guntow, Jekaterina Suharenko, Tanel Kärp, nom des étudiant.e.s, nom des autrices invitées pour les discussions.
 
-### Thanks to
+#### Thanks to
 Inge Eller, Maria Moreira, Ludwig Kannicht, Florian Geiselhart...
 
-### Participating partners
+#### Participating partners
 HfG and EKA
 
-### Supported by
+#### Supported by
 BEDA and the EU Commission
 
-### [A PDF edition of this publiction is freely downloable](/pdf/dtcc.pdf)
+### [A PDF edition of this publiction is freely downloadable here](/pdf/dtcc.pdf)
 
-
-<div class="logos">
-{% image "logos.svg", "logos", "(min-width: 30em) 50vw, 100vw" %}
-</div>
 
 
 

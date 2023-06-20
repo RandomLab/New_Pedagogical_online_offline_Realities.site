@@ -9,10 +9,44 @@ eleventyNavigation:
 
 # Methodologies and tools for collaboration
 
-Our tools build practice and our practice build tools. This formula has been going through artists and designers community who are interested in digital practices for some time now. At Esadse, we have made it the roots of our pedagogy. We have approached very early, from the first exchanges, subjects as tools, use, governance with our students. We know that communication, sharing and design tools are conditioning our creative gestures since we have integrated them into our practices. This project has made visible the extent to which each team, school and country develops its own culture of relationships with technology and even more specifically with digital technology.
+Tools allow us to practice, while practicing allows us to build these
+tools. The artist and designer community, who have a keen interest in
+digital practices, has been utilizing this recipe for quite some time
+now. At Saint-Etienne Higher School of Art and Design, our pedagogy is
+based on this principle. Since the very beginning, we've had plenty
+exchanges with our students regarding the use of these tools. The
+integration of communication, sharing and design tools into our creative
+practices has had a significant impact on the way we approach and
+express our creativity. This project has displayed the varying degrees
+to which each team, school and country cultivates its unique culture of
+relationships with technology, particularly with digital technology.
 
-We struggle to distance ourselves from these kind of topic: we are indeed all practitioners, students, teachers, caught in the socio-politico-economic systems our practices are taking part in and those questions are essentials to build futures, in the face of climate and political challenges for the next years.
+It is indeed a struggle to distance ourselves from these topics: As
+professionals, students, and teachers, we find ourselves entangled in
+socio-politico-economic systems that our practices actively participate
+in. Addressing these fundamental questions becomes crucial for shaping
+the future, especially amidst the climate and political challenges that
+lie ahead in the upcoming years.
 
-This project, which lasted two years and was rich in exchanges and experiences, had an indisputable effect on us, especially on students: a questioning, a critical positioning and strong interrogations on our methods and the uses of the digital tools of creation by collaboration emerged from students. It made it clear that tools and methods we teach are not neutral: they are indeed part of the creative process and have a lot of influence on projects as well as on students, on the way they work and on their designs. All of our practices are mixing art, hacking, fiddling, product design, proprietary and free softwares; but each school has its own pedagogical angle with a favourite toolbox and methods that have an impact on the professional world for which we prepare our students. Within the framework of the DTCC project, we had the opportunity to share our concerns and to make our approaches cohabit, during the time of a project.
+This project which lasted two years, was rich in exchanges and
+experiences, and had an indisputable effect on us, especially on our
+students: questioning and critical positioning towards our methods and
+utilization of digital creative tools through collaborative efforts. It
+became clear that tools and methods we impart are not neutral: they are
+indeed part of the creative process and have a lot of influence on
+projects as well as on students, on the way they work and on their
+designs. Our practices encompass a mix of art, hacking, tinkering,
+product design as well as the use of both proprietary and free software.
+However, each school approaches pedagogy with its own unique
+perspective, adapting toolboxes and methods that directly influence the
+professional world in which we prepare our students. Within the
+framework of the DTCC project, we had the opportunity to voice our
+concerns while enabling different approaches to coexist.
 
-Even though our collaboration has experienced some frictions, the meeting of our respective practices of designing and teaching was very rich; it gave us the chance to share and compare our methodologies and tools — analizing their modalities, origins and realities in our schools and outside, in professional contexts — to both individualy and collectively think about their strengths and weaknesses.
+Even though we have encountered some challenges in our collaboration,
+the encounter of our distinct practices regarding design and teaching
+proved to be highly enriching. This project gave us the chance to share
+and compare our methodologies and tools -- analyzing their modalities,
+origins and realities in our institutions and also in professional
+contexts, while allowing students to think both individually and
+collectively about their strengths and weaknesses.

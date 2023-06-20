@@ -1,18 +1,30 @@
 const eleventyNavigationPlugin = require('@11ty/eleventy-navigation')
-const embedEverything = require("eleventy-plugin-embed-everything")
 const Image = require("@11ty/eleventy-img")
+
+const embedEverything = require("eleventy-plugin-embed-everything")
+
+const markdownIt = require("markdown-it")
+const markdownItFootnote = require("markdown-it-footnote")
+
 const path = require('path')
 
 const { 
     getAllArticles,
     getAllChapitres
-    // getAllPosts, 
-    // getCategoryList,
-    // getCategorisedPosts 
-  } = require('./config/collections')
+} = require('./config/collections')
   
 
 module.exports = function (eleventyConfig) {
+    
+    let options = {
+        html: false, // Enable HTML tags in source
+        breaks: false,  // Convert '\n' in paragraphs into <br>
+        linkify: false // Autoconvert URL-like text to links
+      }
+
+    let markdownLib =  markdownIt(options).use(markdownItFootnote)
+
+    eleventyConfig.setLibrary('md', markdownLib)
 
     /******************/
     /* config plugin   */
@@ -34,19 +46,6 @@ module.exports = function (eleventyConfig) {
             }
         }
     })
-    // eleventyConfig.addPlugin(eleventyImagePlugin, {
-	// 	// Set global default options
-	// 	formats: ["webp", "jpeg"],
-	// 	urlPath: "/img/",
-
-	// 	// Notably `outputDir` is resolved automatically
-	// 	// to the project output directory
-
-	// 	defaultAttributes: {
-	// 		loading: "lazy",
-	// 		decoding: "async"
-	// 	}
-	// })
 
     eleventyConfig.addShortcode("image", async function(src, alt, sizes) {
         
@@ -70,11 +69,6 @@ module.exports = function (eleventyConfig) {
 		return Image.generateHTML(metadata, imageAttributes);
 	})
 
-    // eleventyConfig.setFrontMatterParsingOptions({
-        // excerpt: true,
-        // excerpt_separator: "<!-- excerpt -->",
-        // excerpt_alias: 'excerpt'
-    //   })
 
     eleventyConfig.addFilter('log', value => {
         console.log(value)
@@ -94,6 +88,8 @@ module.exports = function (eleventyConfig) {
     /*****************/
     eleventyConfig.addLayoutAlias('page', 'layouts/page')
     eleventyConfig.addLayoutAlias('video', 'layouts/video')
+    eleventyConfig.addLayoutAlias('about', 'layouts/about')
+
 
 
     /*=================*/
