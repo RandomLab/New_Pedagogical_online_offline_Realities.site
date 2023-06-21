@@ -3,7 +3,7 @@ layout: page
 tags: chapitre
 
 eleventyNavigation:
-  key: Making exhibitions
+  key: Making exhibitions as a collective and pedagogical practice
   order: 6
 ---
 

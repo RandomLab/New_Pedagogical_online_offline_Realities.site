@@ -3,7 +3,7 @@ layout: page
 tags: chapitre
 
 eleventyNavigation:
-  key: Designing tools
+  key: Designing tools for creative collaboration
   order: 5
 ---
 

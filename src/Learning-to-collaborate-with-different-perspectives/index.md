@@ -3,11 +3,11 @@ layout: page
 tags: chapitre
 
 eleventyNavigation:
-  key: Learning to collaborate
+  key: Learning to collaborate with different perspectives
   order: 4
 ---
 
-# Learning to collaborate with people who have a different perspective
+# Learning to collaborate with different perspectives
 
 Collaboration is rarely something that comes naturally fluid but is rather a process of negociation and learning to work together. To be able to find a productive group dynamic and a common ground that is not a soft consensus might require a lot of patience, empathy, communication and open-mindness. Indeed, collaborating with individuals who possess different perspectives can present significant challenges. People from distinct disciplines, cultures, or backgrounds often bring contrasting approaches, values, and ways of thinking and working to the table. These differences, while valuable for generating new ideas and implement ambitious projects, can also lead to misunderstandings, conflicts, and communication barriers within a team.
 
