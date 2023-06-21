@@ -1,0 +1,12 @@
+---
+permalink: '/search.json'
+eleventyExcludeFromCollections: true
+---
+
+[
+  {% for page in collections.all %} 
+  { 
+    "url":"{{ page.url | url }}"
+  }
+  {% if loop.last == false %},{% endif %} {% endfor %}
+]

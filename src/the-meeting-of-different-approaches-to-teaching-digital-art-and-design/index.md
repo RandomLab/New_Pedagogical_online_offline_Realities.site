@@ -7,7 +7,7 @@ eleventyNavigation:
   order: 3
 ---
 
-# The meeting of different approaches to teaching digital art and design
+# Making three approaches on teaching digital art and design meet
 
 As we said before, despite the fact that we all evolve in the same disciplinary field we have very different conceptions of design and working methodologies, we also have different pedagogical approaches, as we observed from the first workshop and as students noticed and discussed in their feedbacks.
 

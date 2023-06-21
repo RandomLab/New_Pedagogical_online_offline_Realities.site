@@ -8,8 +8,33 @@
    version="1.1"
    id="svg5"
    xml:space="preserve"
+   sodipodi:docname="logos.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="logos.svg"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview306"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="1.4433333"
+     inkscape:cx="162.47113"
+     inkscape:cy="355.42725"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="1920"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" /><defs
      id="defs2"><clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath5690"><path
@@ -19,7 +44,8 @@
        id="clipPath1624-3"><path
          d="M 0,283.465 H 623.622 V 0 H 0 Z"
          id="path1622-6" /></clipPath></defs><g
-     id="layer1"><g
+     id="layer1"
+     transform="translate(-2.6458334,6.3500003)"><g
        id="g6490"
        transform="matrix(0.0030571,0,0,-0.00309498,167.52832,32.581198)"
        style="font-size:19.7556px;line-height:23.0524px;font-family:'Atlas Grotesk';-inkscape-font-specification:'Atlas Grotesk';letter-spacing:0px;word-spacing:0;fill:#000000;stroke-width:0"><g
@@ -704,7 +730,7 @@
    d="m 156.9,37 h -10.8 c 0.2,17.6 -14,32 -31.5,32.1 -0.2,0 -0.4,0 -0.6,0 h -9.6 V 37 H 93.7 v 75 h 10.7 V 79.9 h 9.6 c 1.9,0 3.8,-0.1 5.7,-0.3 l 15.5,32.5 h 12 L 130.3,76.9 C 146.5,70.3 157.1,54.5 156.9,37 Z"
    id="path3880-1" />
 			<polygon
-   points="75.4,79.9 75.4,69.2 29.4,69.2 29.4,47.8 82.9,47.8 82.9,37 18.7,37 18.7,112.1 82.9,112.1 82.9,101.3 29.4,101.3 29.4,79.9 "
+   points="82.9,37 18.7,37 18.7,112.1 82.9,112.1 82.9,101.3 29.4,101.3 29.4,79.9 75.4,79.9 75.4,69.2 29.4,69.2 29.4,47.8 82.9,47.8 "
    id="polygon3882" />
 			<path
    d="m 251.1,39.9 v 3 h 5.5 v 2.8 h -5.5 v 3.2 h 7.1 v 2.9 H 247.6 V 37 h 10.6 v 2.8 z"
