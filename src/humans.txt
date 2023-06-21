@@ -1,0 +1,22 @@
+    /* TEAM */
+
+    Editorial coordination and conception :  Cléa Di Fabio, Jérémie Nuel       
+    development : Jérémie Nuel
+    Site: https://jeremienuel.fr
+    Mastodon: @jeremienuel  
+    Location: Lyon, Villeurbanne, Saint-Étienne, France						
+    							
+    /* THANKS */
+    							
+    Names: Ayris Taban, Sarah Garcin, Nolwenn Maudet, David-Olivier Lartigaud, Tanel Kärp, Jekaterina Suharenko,Marc Guntow
+
+    /* SITE */
+                                
+    Last update:  2023/06/21        
+    Standards: HTML5, CSS3, Markdown
+    Software: eleventy.js
+       
+                            
+
+
+                    

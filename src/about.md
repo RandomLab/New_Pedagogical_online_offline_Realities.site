@@ -10,7 +10,7 @@ eleventyNavigation:
 # About this website
 
 ### Editorial coordination and conception
-Random(lab) ESADSE: Jérémie Nuel and Cléa Di Fabio
+Random(lab) ESADSE: Cléa Di Fabio and Jérémie Nuel 
 
 ### Authors
 
