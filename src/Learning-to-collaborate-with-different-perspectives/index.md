@@ -9,17 +9,64 @@ eleventyNavigation:
 
 # Learning to collaborate with different perspectives
 
-Collaboration is rarely something that comes naturally fluid but is rather a process of negociation and learning to work together. To be able to find a productive group dynamic and a common ground that is not a soft consensus might require a lot of patience, empathy, communication and open-mindness. Indeed, collaborating with individuals who possess different perspectives can present significant challenges. People from distinct disciplines, cultures, or backgrounds often bring contrasting approaches, values, and ways of thinking and working to the table. These differences, while valuable for generating new ideas and implement ambitious projects, can also lead to misunderstandings, conflicts, and communication barriers within a team.
+Collaboration is rarely a seamless and effortless process; rather, it
+requires negotiation and a willingness to learn and work together.
+Establishing a productive group dynamic and finding common ground that
+extends beyond mere consensus often demands patience, empathy, effective
+communication, and open-mindedness. Indeed, collaborating with
+individuals who hold diverse perspectives can present significant
+challenges. People from different disciplines, cultures, or backgrounds
+often bring contrasting approaches, values, and ways of thinking and
+working to the table. While these differences are valuable for
+generating new ideas and undertaking ambitious projects, they can also
+give rise to misunderstandings, conflicts, and communication barriers
+within a team.
 
-During the first workshop in EKA, our collaboration was definitely not easy since we had very different working methods and expectations. As Ludwig Kannicht said after this workshop: 
->"It was a super valuable experience. It was perhaps harder than it should have been. But I learned the most at the first workshop, even if you had to go through a valley of tears once. If we could do it again I probably would... We realised along the way that we have very different cultures and understandings of design. If I could do it again, I would simply make it a topic in the first workshop and explicitly allocate time for it, instead of actually pursuing a different goal and then counteracting it. It takes time when you come from different understandings, to put that on the table and
-discuss and understand and value where people are
-coming from. I think it's just unrealistic that you can come from completely different contexts and work together on day one."
+During [the first workshop in EKA](/methodologies-and-tools-for-collaboration/2-1/), our collaboration was definitely not
+easy since we had very different working methods and expectations. As
+Ludwig Kannicht aptly remarked after this workshop:
 
-After this first workshop, came the second one in Esadse, Saint-Étienne in April 2021. We decided to propose a more flexible workshop, with no method or tools imposed or even suggested, so students could experiment their own ways of working together in order to produce a playable game at the end of the week. The students had to get to know each other and make the most of their differences, using each other's perspectives and skills, in a small group setting. This week was also a good opportunity to explore the differences between collaboration, cooperaton, contribution and participation as diverse group work dynamics.
+> "The first workshop was an incredibly valuable experience, despite
+the challenges we faced. It was a learning journey, even if we had to
+overcome some difficulties along the way. Looking back, I realize that
+we had diverse cultures and understandings of design. If given the
+opportunity to repeat the workshop, I would prioritize addressing these
+differences from the start. Allocating dedicated time for open
+discussions and understanding each other\'s perspectives would be
+crucial. It takes time to bridge the gap when collaborating with
+individuals from different contexts. Expecting seamless collaboration
+from day one is unrealistic.\"
 
-During the final DTCC workshop week in HfG, Ludwig led *Radical Collaboration*, a workshop directly focusing on collaboration dynamics from a psychological perspective. He suggested that the students look at and analyse some collaborative moments when they encountered obstacles that led to tensions, in order to better understand what happened and learn how to better react in such situations.
+After the initial workshop, we proceeded to [the second one held in
+Esadse](/Learning-to-collaborate-with-different-perspectives/4-1/), Saint-Étienne in April 2021. For this workshop, we opted for a
+more flexible approach, where no specific methods or tools were imposed
+or even suggested. The aim was to provide students with the freedom to
+experiment and discover their own ways of collaborating, culminating in
+the creation of a playable game by the end of the week. The students
+were tasked with familiarizing themselves with one another and
+leveraging their individual perspectives and skills within small group
+settings. Additionally, this week-long workshop provided an excellent
+opportunity to explore the nuances between collaboration, cooperation,
+contribution, and participation within diverse group dynamics.
 
-We will come back on those two workshops in this chapter, as key moments of learning how to collaborate together.
+During the final DTCC workshop week at HfG, Ludwig led a workshop titled
+[Radical Collaboration](/Learning-to-collaborate-with-different-perspectives/4-3/), which specifically focused on collaboration
+dynamics from a psychological perspective. In this workshop, he
+encouraged the students examine and analyze some collaborative moments
+where they encountered obstacles that led to tensions, in order to
+better understand what happened and learn how to effectively respond and
+navigate similar challenges in the future.
 
-We will then close it with interviews of students who participated in those workshops and who are giving us insights of what they've learned in this context of collaboration within three european schools. Indeed, it opened them up to other ways of doing design, other school cultures, other methods, other tools that they usually use. It was also a time for questioning their practices and postures in relation to the ones of others.
+In this chapter, we will revisit these two workshops, recognizing them
+as key moments in our collective journey of learning how to collaborate
+effectively.
+
+We will then feature interviews with students who participated in these
+workshops, offering valuable insights into their experiences and the
+lessons they learned within the collaborative context of three European
+schools. These workshops not only exposed them to alternative approaches
+to design but also introduced them to different school cultures,
+methods, and tools that diverged from their usual practices.
+Furthermore, the workshops prompted a profound self-reflection,
+encouraging students to question their own practices and attitudes in
+relation to those of their peers.

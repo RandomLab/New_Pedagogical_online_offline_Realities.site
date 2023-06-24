@@ -9,18 +9,116 @@ eleventyNavigation:
 
 ## Conclusion
 
-In this publication we have tried to specify the pedagogical positions in our respective schools, but also to explain the ways in which this experience of international collaboration has challenged them. The present document is therefore a hybrid object, composed of testimonies, reports, theoretical texts, thoughts and various remarks, which are representative of the diversity of methods and approaches that have been convened for this project.
-In order to structure these few conclusive notes, we propose to resume the most salient elements: our perspective on collaborative tools, the positive contrast between the teaching methods of the schools involved in the DTCC project, the importance of IRL meetings and the pedagogical paths that are opening up as a result of this collaboration.
+In this publication, we have aimed to specify the pedagogical positions
+in our respective schools while also explaining how the experience of
+international collaboration has challenged them. The document at hand is
+a hybrid object, comprising testimonies, reports, theoretical texts,
+thoughts, and various remarks that reflect the diverse methods and
+approaches brought together for this project. To structure these
+concluding notes, we propose to highlight the most salient elements: our
+perspective on collaborative tools, the positive contrast between the
+teaching methods of the schools involved in the DTCC project, the
+significance of in-person meetings, and the pedagogical paths that have
+emerged as a result of this collaboration.
 
-The DTCC project as a whole, focused on the issue of digital tools for creative collaboration (at a distance or not). From the ESADSE's point of view, we wanted to seize this opportunity to feed a critical work already begun, on replacing the dominant tools in our art and design schools, such as the Adobe suite and the communication, project management and creative tools developed by the GAMAM companies. This pedagogical positioning linked to a "digital writing" and to training in author practices, encourages ESADSE students to think critically – especially on ecological and social issues, as well as on the governance and data security ones – regarding their projects and the tools used to implement them. We thought these questions, which also run through the pedagogy of the three partner schools (EKA, HFG and EASDSE), were at the very heart of the subject of Digital Tools for Creative Collaboration. However, the changes we wanted to bring at the scale of our three schools did not happen.  This was a node of disagreement between the project partners, which revealed our differences in positioning while being rich in learning. The question of tools is not as consensual as we might have thought, and our collaborative experience confirms that the choice of tools is above all cultural, ideological and even political. We therefore had to take the time to meet online and offline in order to map out the contours of the project, placing the emphasis on the notion of collaboration – the one that was taking place between us becoming a case study – rather than on the question of the collaboration tools.
+The DTCC project as a whole has been centered around the topic of
+digital tools for creative collaboration, whether conducted remotely or
+in-person. From the perspective of ESADSE, we saw this as an opportunity
+to further our ongoing critical work on the replacement of dominant
+tools in art and design schools, such as the Adobe suite and the
+communication, project management, and creative tools developed by GAMAM
+companies. This pedagogical approach, which emphasizes \"digital
+writing\" and authorial practices, encourages ESADSE students to think
+critically about various aspects, including ecological and social
+issues, as well as governance and data security concerns, in relation to
+their projects and the tools they employ to realize them.We believed
+that these questions, which are central to the pedagogy of the three
+partner schools (EKA, HFG, and ESADSE), were at the core of the subject
+of Digital Tools for Creative Collaboration. However, the desired
+changes we aimed to implement across our respective schools did not
+materialize. This discrepancy became a point of disagreement among the
+project partners, highlighting our divergent positions but also
+providing valuable learning experiences. The question of tools proved to
+be less consensual than initially anticipated, and our collaborative
+experience reaffirmed that the choice of tools is primarily influenced
+by cultural, ideological, and even political factors. Consequently, we
+had to invest time in both online and offline meetings to delineate the
+project\'s scope, placing greater emphasis on the notion of
+collaboration itself, which became a case study for us, rather than
+solely focusing on the question of collaboration tools.
 
-We thus collaborated using the tools we had in common, prioritizing simplicity of use and relegating to the background, the question of our critical positioning towards those tools. With this in mind, apart from a shared Wiki that was created especially for the occasion – and is at the basis of this publication – we have organized our remote collaboration around generic communication tools such as Zoom, Slack, Miro and our schools' respective email applications. Although we knew that this project was not going to result in any major changes in our schools' working habits, it has opened a collective critical reflection on the tools we are already using, examined under the scope of their collaborative effectiveness. This led to some strong positions being taken by our students and some interesting proposals coming from them, for new tools or new features to be added to improve online collaborations. 
+In our collaboration, we relied on the tools that we had in common,
+placing a higher priority on usability rather than critically examining
+our stance towards those tools. In light of this approach, apart from a
+shared Wiki that was created for this project and serves as the
+foundation of this publication, our remote collaboration was organized
+using widely-used communication tools such as Zoom, Slack, Miro, and the
+email applications provided by our respective schools. While we were
+aware that this project wouldn\'t bring about significant changes in our
+schools\' established practices, it did spark a collective and critical
+reflection on the tools we already employ, with a focus on their
+effectiveness in fostering collaboration. This process resulted in our
+students taking strong positions and presenting intriguing proposals for
+new tools or features that could enhance online collaborations.
 
-To summarize, having noted that the collaboration tools we use are mostly communication rather than collective creation tools (apart from software such as Figma or Penpot which are specialized tools on productivity tasks) it became clear that collaborative digital creation tools have yet to be invented, hence the usefulness of building *ourcollaborative.tools*, a catalogue not of existing "solutions" but of singular and alternative projects enabling creative processes to be updated outside the field of industry.
+In summary, we have recognized that the tools we currently use for
+collaboration are primarily communication-oriented, with only a few
+specialized productivity tools like Figma or Penpot catering to
+collective creation. This realization has made it evident that there is
+still a need for collaborative digital creation tools to be developed.
+Hence, the significance of our initiative to build
+ourcollaborative.tools, a catalog that showcases unique and alternative
+projects fostering creative processes beyond the field of industry,
+rather than offering pre-existing \"solutions.\"
 
-It should also be noted that from a pedagogical point of view, the IRL workshop format confirmed its relevance, which explains the part we have devoted to it in this publication. In particular, the organization of working groups – systematically including students from each school in each group – helped to develop their sense of working together. The effort that was made to switch perspectives and find areas for mutual understanding showed just how professionalizing this workshop approach can be. The diversity of the spaces and of the proposals that have emerged, demonstrate that this format of teaching remains incredibly fertile, provided that the effort to document its results is respected. The setting up of a wiki has allowed to some extent, to obtain faithful documentation to leave a trace of these activities. In addition to this wiki, the students' interviews – which we have chosen to present in the future DTCC exhibitions – are a key element of this archive and accurately attest to what has been at stake for them during these teamwork moments.
+It is worth mentioning that, from a pedagogical standpoint, the
+in-person workshop format has reaffirmed its relevance, which is why we
+have dedicated a significant portion of this publication to it. In
+particular, the formation of working groups, intentionally including
+students from each school in every group, has played a vital role in
+fostering a sense of collaboration among them. The deliberate effort to
+exchange perspectives and seek common ground has demonstrated the
+professionalizing impact of this workshop approach. The diversity of
+spaces and the range of proposals that have emerged highlight the
+remarkable fertility of this teaching format, as long as there is a
+commitment to documenting its outcomes. The establishment of a wiki has
+provided a means to capture and preserve the activities in a faithful
+manner. Alongside the wiki, the interviews conducted with the students
+-- which we have chosen to present in future DTCC exhibitions -- serve
+as a crucial component of this archive, providing an authentic testimony
+to the significance of these collaborative moments for the students
+involved.
 
-Finally and in this continuity, it is clear that the collaborative value of digital tools, especially in the creative field, does not replace the direct interaction of a physical encounter. If collaborative tools are quite effective in a productivity framework within a highly planned project logic, because of their strict digital framework (interface, screen, etc.) they do not (yet) succeed in convening an essential part – but one that is very difficult to simulate digitally! – of collaboration: meeting others, discovering other cultures and ways of understanding the world, conviviality and being "contextualized" from your usual workplace. This may seem obvious at the end of such a project, but putting it to the test has clearly shown that creation originates from a much wider and rich set than the simple software framework of a multi-user interface. This is therefore the true value of an ERASMUS-supported project such as this one: in addition to the various outcomes achieved, it is surprisingly the "extras" to the work sessions, such as cultural visits, friendly encounters and discussions outside meetings, that have greatly participated in forging a mental space specific to creation.
+In continuation, it is evident that the collaborative value of digital
+tools, particularly in the creative field, cannot fully replace the
+direct interaction of physical encounters. While collaborative tools
+prove to be quite effective in a productivity-driven context with
+well-defined project goals, their inherent digital nature (interface,
+screens, etc.) currently falls short of replicating an essential aspect
+of collaboration: the physical presence. The act of meeting others,
+experiencing different cultures and perspectives, fostering
+conviviality, and being \"contextualized\" beyond one\'s usual workplace
+are elements that are challenging to simulate digitally. Hence, despite
+the advantages of digital collaboration, there remains an irreplaceable
+value in face-to-face interactions. At the conclusion of such a project,
+it may appear self-evident, but putting it to the test has revealed that
+creation springs forth from a broader and richer context than the mere
+software framework of a multi-user interface. This realization
+underscores the true value of an ERASMUS-supported project like ours.
+Beyond the tangible outcomes achieved, it is the \"extras\" accompanying
+the work sessions that have played a significant role in shaping a
+mental space specific to creation. Cultural visits, friendly encounters,
+and discussions outside of formal meetings have contributed greatly to
+this process.
 
-As students and supervisors can attest, the various experiences we had, transformed our creative approaches and thus modified our productions, enriched with broader pedagogical and professional methods than those usually adopted in our respective countries. This clearly shows the fertility of the European territory, which, by its differences but also its points of encounter, forces to think of collaboration as an exercise in physical and intellectual mobility, cultural and formal discoveries and diversity of approaches, inviting to be in a movement rather than to remain static.
-
+As affirmed by both students and supervisors, the diverse experiences we
+encountered during this project have transformed our creative approaches
+and consequently shaped our productions. Our work has become enriched by
+embracing pedagogical and professional methods that extend beyond the
+conventional practices of our respective countries. This clearly shows
+the richness of the European territory, which, through its differences
+and points of convergence, compels us to view collaboration as an
+exercise in physical and intellectual mobility. It encourages us to
+embark on a journey of cultural and formal discoveries while embracing
+diverse approaches. In this dynamic context, remaining static is not an
+option; instead, we are invited to be in constant motion.
