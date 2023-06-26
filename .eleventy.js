@@ -52,7 +52,7 @@ module.exports = function (eleventyConfig) {
         let imageSrc = `${path.dirname(this.page.inputPath)}/${src}`
 
 		let metadata = await Image(imageSrc, {
-			widths: [600, 1200],
+			widths: [400, 800],
 			formats: ["webp"],
             outputDir: path.dirname(this.page.outputPath),
             urlPath: this.page.url

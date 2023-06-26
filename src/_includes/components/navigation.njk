@@ -2,10 +2,10 @@
     {% set navPages = collections.all | eleventyNavigation %}
     {% macro renderNavListItem(entry) -%}
     <li {% if entry.url == page.url %} class="is-active"{% endif %}>
-    <a  href="{{ entry.url }}">{{ entry.title }}</a>
+    <a  href="{{ entry.url }}" aria-label="{{ entry.title }}">{{ entry.title }}</a>
     {%- if entry.children.length -%}
     <ul class="dropdown-container">
-        {%- for child in entry.children %}{{ renderNavListItem(child) }}{% endfor -%}
+        <li>{%- for child in entry.children %}{{ renderNavListItem(child) }}{% endfor -%}</li>
     </ul>
     {%- endif -%}
     </li>
@@ -36,10 +36,10 @@
     {% set navPages = collections.all | eleventyNavigation %}
     {% macro renderNavListItem(entry) -%}
     <li {% if entry.url == page.url %} class="is-active"{% endif %}>
-    <a  href="{{ entry.url }}">{{ entry.title }}</a>
+    <a  href="{{ entry.url }}" aria-label="{{ entry.title }}">{{ entry.title }}</a>
     {%- if entry.children.length -%}
     <ul class="dropdown-container">
-        {%- for child in entry.children %}{{ renderNavListItem(child) }}{% endfor -%}
+        <li>{%- for child in entry.children %}{{ renderNavListItem(child) }}{% endfor -%}</li>
     </ul>
     {%- endif -%}
     </li>
