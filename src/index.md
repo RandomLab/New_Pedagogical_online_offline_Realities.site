@@ -7,7 +7,7 @@ eleventyNavigation:
   order: 1
 ---
 
-# Digital Tools for Collective Creative Practices: A Pedagogical Approach to Art and Design Collaboration
+# Digital Tools for Collective Practices: A Pedagogical Approach to Art and Design Collaboration
 
 {% image "20220307_102053.jpg", "Build something together", "(min-width: 30em) 50vw, 100vw" %}
 

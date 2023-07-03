@@ -7,7 +7,7 @@ eleventyNavigation:
   order: 2
 ---
 
-# Methodologies and tools for collaboration
+# Methodologies and Tools for Collaboration
 
 Tools allow us to practice, while practicing allows us to build these
 tools. The artist and designer community, who have a keen interest in

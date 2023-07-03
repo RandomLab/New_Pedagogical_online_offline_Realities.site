@@ -30,6 +30,9 @@ Dorothée Abaiadze, Sigmund Abou Chrouch, Maëlys Bard, Maximilian Becht, Marion
 ### Proofreader and translator
 Ayris Taban
 
+### Photo credits
+Samantha Zannoni, Hugo Saksik, David-Olivier Lartigaud
+
 ### Thanks to
 Inge Eller, Maria Moreira, Alix Diaz, Ludwig Kannicht, Florian Geiselhart, Damien Baïs and François Brument
 
