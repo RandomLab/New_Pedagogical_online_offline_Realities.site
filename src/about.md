@@ -42,6 +42,25 @@ HfG and EKA
 #### Supported by
 BEDA and the EU Commission
 
+#### Legal notices
+This website is published by:
+Cité du design/Esadse
+3 rue Javelin Pagnon
+42000 Saint-Étienne
+France
+
+and hosted by :
+
+https://render.com/
+Render Services, Inc.
+525 Brannan Street Ste 300 San Francisco CA 94107
+United States
+
+https://www.ovhcloud.com/fr/
+SAS OVH, 2 rue Kellermann
+59100 Roubaix
+France
+
 ### [A PDF edition of this publiction is freely downloadable here](/pdf/dtcc.pdf)
 
 
